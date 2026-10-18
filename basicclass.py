@@ -107,3 +107,5 @@ last_name=input("Enter your last name:")
 full_name=first_name+" "+last_name
 print("Full name:",full_name.lower())
 print("Full name:",full_name.lower())
+print("This is my first python program")
+print("Hillo")
